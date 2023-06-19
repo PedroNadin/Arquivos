@@ -1,0 +1,12 @@
+.principal{
+    max-width: 1000px;
+    margin: auto;
+    border: black solid;
+    height: 100vh;
+}
+
+.NomeDoJogador{
+    margin: auto;
+    width: 300px;
+    text-align: center;
+}
